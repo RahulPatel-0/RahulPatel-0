@@ -1,42 +1,21 @@
-## Hi there 👋, I'm Rahul Patel
+# 💫 About Me:
+🔭 I’m currently working on<br>Developing high-performance RESTful APIs using .NET Core with CQRS architecture, synchronizing 50,000+ member records, implementing asynchronous processing for 10,000+ daily requests, and optimizing SQL Server performance.<br><br>👯 I’m looking to collaborate on<br>Scalable backend systems using ASP.NET Core, clean architecture projects, and AI/Deep Learning–based healthcare or analytics applications.<br><br>🤝 I’m looking for help with<br>Advanced system design, distributed architecture, performance optimization at scale, and improving production-grade DevOps/CI-CD workflows.<br><br>🌱 I’m currently learning<br>Advanced backend architecture patterns (CQRS, clean architecture, SOLID principles), API optimization strategies, and deep learning model improvements for real-world datasets.<br><br>💬 Ask me about<br>.NET Core Web APIs, REST architecture, SQL optimization, React-based frontend systems, Deep Learning (CNN for medical imaging), and solving DSA problems (500 on leetcode and 200 gfg+ problems across platforms).<br><br>⚡ Fun fact<br>I’ve solved 500+ problems on LeetCode and 200+ on GeeksforGeeks while maintaining an 8.6 CGPA in Computer Science — and I enjoy optimizing systems to improve performance by measurable percentages 🚀
 
-Welcome to my GitHub profile! I am a **Full-Stack Developer** with experience in **.NET Core, C#, SQL Server, RESTful APIs, CQRS, React.js, Django**, and more. I enjoy building scalable backend systems, full-stack web applications, and APIs that solve real-world problems.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patel-rahul-se/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelrahul8948@gmail.com) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RahulPatel-0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RahulPatel-0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulPatel-0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RahulPatel-0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=RahulPatel-0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔭 Currently Working On
-- Developing **RESTful APIs in .NET Core** for mobile and enterprise applications
-- Building **full-stack web applications** using .NET Core MVC, React.js, and Django
-
-### 🌱 Currently Learning
-- Advanced **CQRS and event-driven architectures**
-- Cloud deployment and **Azure/AWS services** for scalable applications
-- Performance optimization and **database tuning** in SQL Server
-
-### 💻 Skills & Technologies
-**Programming Languages:** C || Python || C#  
-**Frontend / Full-Stack:** React.js || Django || .NET Core MVC || Full-Stack Development  
-**Backend / APIs:** .NET Core || RESTful APIs || CQRS || Business Logic Implementation  
-**Databases / Data Management:** SQL || SQL Server || Data Structures  
-**Tools / Others:** Git || Postman || Debugging || Application Architecture
-
-### 📂 Projects
-- **Mobile App APIs:** RESTful .NET Core APIs for an insurance mobile app, allowing users to purchase policies, submit claims, and access services  
-- **MemberPortal API:** RESTful .NET Core APIs using **CQRS** to sync data between **Innayah and Liva systems** for a TPA
-- **Frontend Web Developer – Software Engineer Intern**  
-Webstack Academy (WSA), Bengaluru, Karnataka | July 2024 – September 2024  
-- Developed an intuitive food ordering system processing 200+ daily orders.  
-- Integrated with kitchen management software for seamless operations.  
-- Leveraged data analytics to optimize menu choices for 500+ regular patrons.  
-
-**AI Model Developer – Artificial Intelligence Intern**  
-Edunet Foundation, Bengaluru, Karnataka | June 2023 – July 2023  
-- Built an AI mental health tracker providing daily assessments, increasing app retention by 40%.  
-- Personalized mental health recommendations, reducing anxiety levels by 30% among users.
-
-### 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn URL]  
-- Email: [Your Email Address]  
-
-### ⚡ Fun Fact
-I enjoy learning new technologies, exploring software architecture patterns, and contributing to projects that solve real-world problems.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
